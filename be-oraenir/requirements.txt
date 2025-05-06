@@ -1,0 +1,5 @@
+Flask
+gunicorn
+boto3
+flask-cors
+mypy-boto3-builder
